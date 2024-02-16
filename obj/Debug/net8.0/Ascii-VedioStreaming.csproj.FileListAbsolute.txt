@@ -39,3 +39,4 @@ C:\Users\hp\Desktop\Ascii-VedioStreaming\obj\Debug\net8.0\refint\Ascii-VedioStre
 C:\Users\hp\Desktop\Ascii-VedioStreaming\obj\Debug\net8.0\Ascii-VedioStreaming.pdb
 C:\Users\hp\Desktop\Ascii-VedioStreaming\obj\Debug\net8.0\Ascii-VedioStreaming.genruntimeconfig.cache
 C:\Users\hp\Desktop\Ascii-VedioStreaming\obj\Debug\net8.0\ref\Ascii-VedioStreaming.dll
+C:\Users\hp\Desktop\Ascii-VedioStreaming\obj\Debug\net8.0\Ascii-VedioStreaming.sourcelink.json

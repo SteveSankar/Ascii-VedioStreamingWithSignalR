@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ascii-VedioStreaming")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf8b183a2c1cbc145e937bf8c7ac3d4b2ecd103")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ascii-VedioStreaming")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ascii-VedioStreaming")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@ namespace StreamR
     public class StreamHub : Hub
     {
         private readonly StreamManager _streamManager;
-
+ 
         public StreamHub(StreamManager streamManager)
         {
             _streamManager = streamManager;
