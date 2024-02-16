@@ -127,7 +127,10 @@ async function watchStream(streamName) {
         },
         complete: () => {
             feed.innerHTML = "Stream completed";
-            console.log("Stream is finished.");
+            console.log("Stream is finished."); 
+            @* git config user.name "sankar"
+            git config user.email "kollisankarrao00@gmail.com" *@
+
         },
         error: (err) => {
             feed.innerHTML = "Stream closed with an error";
